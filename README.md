@@ -60,9 +60,11 @@ FactOrderDetails: Contiene los detalles de los productos en cada pedido, incluye
 
 Proceso de Limpieza
 Antes de cargar los datos, se ejecuta un proceso de limpieza que elimina los registros existentes en las tablas de hechos, asegurando que no haya duplicados.
+
+
+
 Autor
 Mikael Burgos - 2020-9410
-Copiar
-### 2. /scripts/tables/create_dim_tables.sql
+
 
 
